@@ -2,7 +2,7 @@
 
 return Require("Madara")("https://e-novel.online", {
     id = 172008,
-    name = "E-Novel",
+    name = "E-Novel1",
     imageURL = "https://e-novel.online/wp-content/uploads/2021/06/logo-novela.fw_.png",
 
     novelListingURLPath = "",
