@@ -1,6 +1,21 @@
 {
-    "libraries": [], 
+    "libraries": [
+        {
+            "name": "Madara",
+            "ver": "2.9.1"
+        }
+    ],
     "scripts": [
+        {
+            "name": "E-Novel1",
+            "fileName": "E-Novel1",
+            "imageURL": "https://e-novel.online/wp-content/uploads/2021/06/logo-novela.fw_.png",
+            "id": 1720081,
+            "lang": "pt",
+            "ver": "1.0.0",
+            "libVer": "1.0.0",
+            "md5": ""
+        },
         {
             "name": "Anime Center BR",
             "fileName": "https://raw.githubusercontent.com/arthurony/repo/main/scripts/AnimeCenterBR.lua",
