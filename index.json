@@ -1,15 +1,10 @@
 {
-    "libraries": [
-        {
-            "name": "Madara",
-            "ver": "2.9.1"
-        }
-    ],
+    "libraries": [], 
     "scripts": [
         {
             "name": "Anime Center BR",
-            "fileName": "AnimeCenterBR",
-            "imageURL": "https://github.com/arthurony/repo/blob/main/icons/animecenterbr.png",
+            "fileName": "https://raw.githubusercontent.com/arthurony/repo/main/scripts/AnimeCenterBR.lua",
+            "imageURL": "https://raw.githubusercontent.com/arthurony/repo/main/icons/animecenterbr.png",
             "id": 12345,
             "lang": "pt",
             "ver": "1.0.0",
